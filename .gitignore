@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+__pycache__
+
+_old/
+develop/
+data/
+mumbai/
+
+*.ipynb
+*.py
